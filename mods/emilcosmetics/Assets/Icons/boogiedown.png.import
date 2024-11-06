@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/halo_red.png-57e9ba3bbd684d535ea66301837940ec.stex"
+path="res://.import/boogiedown.png-8e0898d184592c139f25030c714a7069.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/emilcosmetics/Assets/Icons/halo_red.png"
-dest_files=[ "res://.import/halo_red.png-57e9ba3bbd684d535ea66301837940ec.stex" ]
+source_file="res://mods/emilcosmetics/Assets/Icons/boogiedown.png"
+dest_files=[ "res://.import/boogiedown.png-8e0898d184592c139f25030c714a7069.stex" ]
 
 [params]
 

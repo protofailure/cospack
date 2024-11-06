@@ -2,7 +2,7 @@
 
 [ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=1]
 [ext_resource path="res://Assets/Models/Cosmetics/rig_main_updated.tres" type="Skin" id=2]
-[ext_resource path="res://mods/emilcosmetics/Assets/Icons/halo_purple.png" type="Texture" id=3]
+[ext_resource path="res://mods/emilcosmetics/Assets/Icons/halo.png" type="Texture" id=3]
 [ext_resource path="res://mods/emilcosmetics/Assets/Models/halo.tres" type="ArrayMesh" id=5]
 
 [resource]

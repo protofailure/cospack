@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/halo_blue.png-9b661a1dcafe5b66bb2f57897eeee841.stex"
+path="res://.import/orangejustice.png-00f2ebb743f182e5010c9f57293b2a0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/emilcosmetics/Assets/Icons/halo_blue.png"
-dest_files=[ "res://.import/halo_blue.png-9b661a1dcafe5b66bb2f57897eeee841.stex" ]
+source_file="res://mods/emilcosmetics/Assets/Icons/orangejustice.png"
+dest_files=[ "res://.import/orangejustice.png-00f2ebb743f182e5010c9f57293b2a0b.stex" ]
 
 [params]
 
