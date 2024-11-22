@@ -7,8 +7,8 @@
 
 [resource]
 script = ExtResource( 2 )
-name = "Halo (Red)"
-desc = "R.I.P."
+name = "Broken Halo (Red)"
+desc = "Fallen."
 title = ""
 icon = ExtResource( 3 )
 mesh = ExtResource( 1 )
